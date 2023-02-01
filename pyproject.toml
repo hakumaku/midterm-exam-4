@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "midterm-exam-4"
+name = "my_project"
 version = "0.1.0"
 description = ""
 authors = ["vincent <vincent@timepercentcorp.com>"]
 readme = "README.md"
-packages = [{include = "midterm_exam_4"}]
+packages = [{include = "my_project"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
